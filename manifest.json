@@ -1,0 +1,19 @@
+{
+  "name": "Slotoro Casino",
+  "short_name": "Slotoro Casino",
+  "theme_color": "",
+  "background_color": "#030025",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773394791-icon-1.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
